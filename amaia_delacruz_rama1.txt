@@ -1,1 +1,4 @@
 Primera linea fichero Rama1
+Nueva linea master
+Nueva linea Rama1
+Nueva linea 2 Rama1
